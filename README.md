@@ -5,11 +5,11 @@ Joseph Enoch's Path to learning Django
 
 --> Clone the repository using the command below :
 
-git clone https://github.com/preciousimo/DjangoFromScratch
+git clone https://github.com/Josephenoch/redev_talks
 
 --> Move into the directory where we have the project files :
 
-cd DjangoFromScratch
+cd redev_talks
 
 --> Create a virtual environment :
 
